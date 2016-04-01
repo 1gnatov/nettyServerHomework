@@ -1,1 +1,1 @@
-alert( "Привет" );
+alert( "Hello!" );
